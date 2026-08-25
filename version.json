@@ -1,0 +1,8 @@
+{
+  "build": 2,
+  "version": "0.1.0",
+  "file": "woolim_autocabinet.rbz",
+  "sha256": "80206c8365e5a75927245850ead5e6e67fed10fb8e4bc9ccb24cad26d7bf3c22",
+  "size": 3138883,
+  "notes": "구글 로그인 게이트 추가 · 서랍 지판 따내기 MPR 출력 · LEGRABOX 측판 런너 보링 신설"
+}
